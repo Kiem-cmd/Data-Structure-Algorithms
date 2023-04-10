@@ -11,9 +11,9 @@ int partition(int a[],int low,int high){
 			a[i] = temp;
 		}
 	}
-	int tem = a[i+1];
+	int temp = a[i+1];
 	a[i+1] = pivot;
-	a[high] = tem;
+	a[high] = temp;
 	return i+1;
 }
 void sort(int a[],int low,int high){
