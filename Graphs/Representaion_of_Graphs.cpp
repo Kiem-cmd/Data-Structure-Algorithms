@@ -26,6 +26,6 @@ int main(){
 	
 	/// voi do thi co trong so 
 	/// - voi ma tran ke thi thay 1 bang trong so 
-	/// - voi danh sach ke thì tao vector<pair<int,int>> adj[n+1]
+	/// - voi danh sach ke thï¿½ tao vector<pair<int,int>> adj[n+1]
 	return 0;
 }
