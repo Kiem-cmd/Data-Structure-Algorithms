@@ -1,27 +1,7 @@
-Day 1 : Array
+### Poiter vs Refference in C++ 
 
-Day 2 : String
+Poiter: là biến giữ địa chỉ bộ nhớ của một biến khác 
+Refference: là một biến tham chiếu, coi là tên khác cho một biến đã tồn tại 
 
-Day 3 : Linked List
-
-Day 4 : Search Algorithms
-
-Day 5 : Sort Algorithms
-
-Day 6 : Divide and Conquer Algorithms
-
-Day 7 : Stack
-
-Day 8 : Queue
-
-Day 9 : Tree
-
-Day 10 : Graph
-
-Day 11 : Greedy
-
-Day 12 : Recurion
-
-Day 13 : Backtracking Algorithms
-
-Day 14 : Dynamic Programing
+Poiter có thể gán lại còn Ref thì ko 
+Poiter có địa chỉ bộ nhớ riêng cong Ref thì dùng chung bộ nhớ với biến 
